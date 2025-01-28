@@ -24,11 +24,12 @@ author:
   avatar           : "profile.png"
   name             : "Nando"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate CS Major at UH"
+  bio              : "Undergraduate CS Major at UH."
   location         : "Houston"
   employer         : "University Of Houston"
   uri              : # URL
-  email            : "fmmancilla20@gmail.com" 
+  email            : "fmmancilla20@gmail.com"
+  resume            : "https://github.com/FerMan2001/FerMan2001.github.io/blob/master/files/Resume.pdf" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
