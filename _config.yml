@@ -27,7 +27,8 @@ author:
   bio              : "Undergraduate CS Major at UH."
   location         : "Houston"
   employer         : "University Of Houston"
-  uri              : # URL
+  uri              :  "cs.uh.edu"
+  uri              : "https://github.com/FerMan2001/FerMan2001.github.io/blob/master/files/Resume.pdf"
   email            : "fmmancilla20@gmail.com"
   
   # Academic websites
