@@ -21,7 +21,7 @@ repository               : "FerMan2001/FerMan2001.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profiletest3.png"
   name             : "Nando"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate CS Major at UH."
@@ -62,6 +62,7 @@ author:
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
+  resume           :  icon: fas fa-file-alt "files/Resume.pdf"
   soundcloud       : # Username
   steam            : # Username
   telegram         : # URL
