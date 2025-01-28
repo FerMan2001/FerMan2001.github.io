@@ -22,8 +22,8 @@ repository               : "FerMan2001/FerMan2001.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Nando"
-  pronouns         : # example: "she/her"  
+  name             : "Nando / test"
+  pronouns         : #"he/him" example: "she/her"  
   bio              : "Undergraduate CS Major at UH."
   location         : "Houston"
   employer         : "University Of Houston"
