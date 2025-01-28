@@ -21,7 +21,7 @@ repository               : "FerMan2001/FerMan2001.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "LinkedIn_Selfie2.jpg"
+  avatar           : "images/testProfile.jpg"
   name             : "Nando"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate CS Major at UH."
