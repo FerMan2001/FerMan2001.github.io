@@ -12,7 +12,7 @@ title                    : "Fernando Mancilla"
 title_separator          : "-"
 name                     : &name "Fernando Mancilla"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://ferman2001.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "FerMan2001/FerMan2001.github.io"
 
