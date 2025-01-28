@@ -22,9 +22,9 @@ repository               : "FerMan2001/FerMan2001.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Nando"
+  name             : "Fernando Mancilla"
   pronouns         : #"he/him" example: "she/her"  
-  bio              : "Undergraduate Computer Science BS Major at UH."
+  bio              : "Hello! My name is Fernando, and my nickname is Nando. I'm a senior at UH, and I'm majoring in CS with an intrest in game devlopment and game design. I would describe myself as an artist because I enjoy creating music, creating mods for video games, and other various forms of art."
   location         : "Houston, TX"
   employer         : "University Of Houston"
   uri              :  "https://www.uh.edu/nsm/computer-science/"
