@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Fernando Mancilla / A Short Journey"
+title                    : "Fernando Mancilla"
 title_separator          : "-"
 name                     : &name "Fernando Mancilla"
 description              : &description "personal description"
