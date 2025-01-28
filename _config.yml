@@ -21,7 +21,7 @@ repository               : "FerMan2001/FerMan2001.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profiletest3.png"
+  avatar           : "profile.png"
   name             : "Nando"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate CS Major at UH."
@@ -146,7 +146,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google-analytics-4" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
 
