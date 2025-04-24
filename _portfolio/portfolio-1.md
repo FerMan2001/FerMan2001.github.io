@@ -4,5 +4,4 @@ excerpt: "Video Link to the Project I Worked on<br><a href='https://youtu.be/Dgu
 collection: portfolio
 ---
 
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This semester-long project involved developing a database designed to store information about form submissions, including user emails and CougarIDs. My primary responsibility was creating both the frontend and backend for the approval forms page. This feature enables users to view submitted forms and delegate tasks to other team members as necessary. Throughout the project, we utilized several technologies, including Flask for the web framework, Docker for containerization, and PostgreSQL for database management. While the project wasn't particularly challenging, it provided valuable experience in integrating and coordinating multiple technologies effectively.
